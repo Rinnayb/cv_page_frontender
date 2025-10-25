@@ -9,6 +9,6 @@
     3. three
 ```
 
-[CV page repository](https://github.com/Rinnayb/cv_page_frontender)
+[CV page repository](https://rinnayb.github.io/cv_page_frontender/)
 
 ![image](assets/rinnayb.png)
